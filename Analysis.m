@@ -18,4 +18,4 @@ figure;
 plot(1:size(data, 2), data(channelMap('fp2'), :));
 
 
-% This is a test comment.
+% This is a test comment. Go to hell.
