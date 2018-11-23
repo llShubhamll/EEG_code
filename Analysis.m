@@ -16,3 +16,6 @@ end
 channelMap = containers.Map(channelLabels, 1:m);
 figure;
 plot(1:size(data, 2), data(channelMap('fp2'), :));
+
+
+% This is a test comment.
